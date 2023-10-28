@@ -1,4 +1,4 @@
-DESCRIPTION
+DESCRIPTION:
 This project aims to conduct a comprehensive socioeconomic analysis focusing on marginal workers.
 The study will delve into the demographic attributes of this vital workforce, including age, industrial categorization, and gender distribution. 
 To facilitate a clear understanding, visualizations in the form of bar charts, pie charts, and heat maps will be employed to depict the distribution across these distinct categories.
